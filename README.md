@@ -1,2 +1,2 @@
-# aocrypt0r
+# aocrypt
 Simple, but powerful file encryption algorithm.
